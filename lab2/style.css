@@ -1,0 +1,33 @@
+body {
+  font-family: "Calibri", sans-serif;
+  color: white;
+  margin: 0px;
+  padding: 0;
+  height: 100%;
+  background-image: url("https://phonoteka.org/uploads/posts/2021-05/1620104070_38-phonoteka_org-p-fon-dlya-prezentatsii-kletka-matematika-42.jpg");
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+header {
+  /* background-color: rgb(34, 63, 4); */
+  height: 70px;
+  top: 0px;
+  padding: 5px;
+}
+main {
+  padding: 5px;
+}
+.algoritm {
+  width: 50%;
+  height: 50%;
+}
+.img {
+  width: 35%;
+  height: 15%;
+}
+.example {
+  width: 15%;
+  height: 15%;
+}
